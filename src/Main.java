@@ -44,8 +44,5 @@ public class Main {
         if (three > one && three > one) {System.out.println(three);}
 
 
-
-
-
             }
 }
